@@ -23,7 +23,6 @@ This project uses historical property data to train a Linear Regression model th
 House-Price-Predictor/
 │
 ├── Predictor_ML.ipynb          # Main Jupyter notebook
-                                # Dataset
 └── README.md                   # Project documentation
 ```
 
